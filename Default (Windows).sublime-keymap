@@ -1,0 +1,5 @@
+[
+	{
+		"keys": ["shift+super+'"], "command": "expand_selection_to_backtick"
+	}
+]
